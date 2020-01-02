@@ -1,0 +1,30 @@
+<main id="main">
+  <h1 id="title"> My idol</h1>
+  <p>The most impressive Human</p>
+  <figure id="img-div">
+    <img src="https://i.kym-cdn.com/entries/icons/original/000/016/546/hidethepainharold.jpg" alt="Harold hides his pain behind a smile"/>
+    <figcaption id="img-caption">
+      Harold holds a call, hiding the pain behind a smile after hearing a devastating notice.
+    </figcaption>
+  </figure>
+  <section id="tribute-info">
+    <h3 id="headline"> This is the journey of the most impressive Human ever born</h3>
+    <ul>
+      <li><strong>1941</strong> - Born in remote Casca la Mamma, Italy.</li>
+      <li><strong>1942</strong> - Soon discovered he was adopted, moved to the woods.</li>
+      <li><strong>1943</strong> - Started fighting to become a leader of a pack od dogs.</li>
+      <li><strong>1999</strong> - End of the list example.</li>
+    </ul>
+    <blockquote cite="https://www.sectormatematica.cl/preescolar/trabalen.htm">
+    <p>"
+Tres tristres tigres, tragaban trigo en un trigal, en tres tristes trasto, tragaban trigo tres tristes tigres."</p>-- Random Spanish trobador</blockquote>
+    <h3>You should check this human on the
+      <a 
+       id="Meme-link" 
+       href="https://www.dictionary.com/e/the-original-memes-before-memes-listicle/"
+       target="_blank">
+      Dictionary Entry
+      </a>.
+    </h3>
+  </section>
+</main>
